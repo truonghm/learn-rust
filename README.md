@@ -25,5 +25,6 @@
   - Install the [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 	
 	- Update *Code-runner: Executor Map*: `"rust": "cargo run # $fileName",`
+	- Enable *File Directory as Cwd*: `"code-runner.fileDirectoryAsCwd": true,`
 
   - Install the [Better TOML extension](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
